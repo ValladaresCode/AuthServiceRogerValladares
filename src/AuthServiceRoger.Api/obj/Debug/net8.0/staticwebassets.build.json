@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xV4vb7OsKm0Rht+IH0ALjSRY3qbRKAlXTpufyiUgAVM=",
+  "Source": "AuthServiceRoger.Api",
+  "BasePath": "_content/AuthServiceRoger.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

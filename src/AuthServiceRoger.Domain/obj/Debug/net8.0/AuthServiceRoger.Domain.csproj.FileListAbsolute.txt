@@ -1,0 +1,11 @@
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\bin\Debug\net8.0\AuthServiceRoger.Domain.deps.json
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\bin\Debug\net8.0\AuthServiceRoger.Domain.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\bin\Debug\net8.0\AuthServiceRoger.Domain.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.AssemblyInfoInputs.cache
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.AssemblyInfo.cs
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\refint\AuthServiceRoger.Domain.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\AuthServiceRoger.Domain.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Domain\obj\Debug\net8.0\ref\AuthServiceRoger.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Persistence.deps.json
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Persistence.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Persistence.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Application.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Domain.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Domain.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\bin\Debug\net8.0\AuthServiceRoger.Application.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.AssemblyInfoInputs.cache
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.AssemblyInfo.cs
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServ.EDB4E836.Up2Date
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\refint\AuthServiceRoger.Persistence.dll
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\AuthServiceRoger.Persistence.pdb
+C:\Users\Informatica\Desktop\2024060\Progra\AuthServiceRogerValladares\src\AuthServiceRoger.Persistence\obj\Debug\net8.0\ref\AuthServiceRoger.Persistence.dll
