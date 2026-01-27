@@ -1,4 +1,4 @@
-namespace AuthServiceRoger.Application.DTOs;
+namespace AuthServiceRoger.Application.Interfaces;
 
 public interface IPasswordHashService
 {

@@ -1,4 +1,6 @@
 namespace AuthServiceRoger.Application.Services;
+
+using System.Data.Common;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -11,6 +13,31 @@ public static class UuidGenerator
         var bytes = new byte[12];
         rng.GetBytes(bytes);
 
+        var result = new StringBuilder(16);
+        for(int i = 0; i <12; i++)
+        {
+            result.Append(Alphabet[bytes[i] % Alphabet.Length]);
+        }
+        return result.ToString();
         
     }
+
+
+    public static string GenerateUserId()
+    {
+        return $"user_{GenerateShortUUID()}";
+    }
+
+    public static bool IsValidUserId(string? id)
+    {
+        if (string.IsNullOrEmpty(id))
+            return false;
+        
+        if(id.Length != 16 || !id.StartsWith("usr_"))
+            return false;
+    
+        var idPart= id[4..];
+        return idPart.All(c => Alphabet.Contains(c));
+    }
+    
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj": {}
+    "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj": {
+    "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj",
         "projectName": "AuthServiceRoger.Api",
-        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj",
+        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\AuthServiceRoger.Api.csproj",
         "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\obj\\",
+        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj"
+              "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
+                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj"
               },
-              "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj"
+              "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj"
               }
             }
           }
@@ -78,18 +78,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
+    "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj",
         "projectName": "AuthServiceRoger.Application",
-        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj",
+        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj",
         "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\obj\\",
+        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj"
+              "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
+                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj"
               }
             }
           }
@@ -150,18 +150,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
+    "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj",
         "projectName": "AuthServiceRoger.Domain",
-        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj",
+        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj",
         "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,18 +208,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj": {
+    "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj",
         "projectName": "AuthServiceRoger.Persistence",
-        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj",
+        "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\AuthServiceRoger.Persistence.csproj",
         "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -234,11 +234,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj"
+              "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj": {
+                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Application\\AuthServiceRoger.Application.csproj"
               },
-              "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj"
+              "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj": {
+                "projectPath": "C:\\Users\\Informatica\\Desktop\\2024060\\Progra\\AuthServiceRogerValladares\\src\\AuthServiceRoger.Domain\\AuthServiceRoger.Domain.csproj"
               }
             }
           }
@@ -257,6 +257,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -273,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
