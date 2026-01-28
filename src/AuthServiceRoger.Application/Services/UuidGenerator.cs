@@ -25,7 +25,12 @@ public static class UuidGenerator
 
     public static string GenerateUserId()
     {
-        return $"user_{GenerateShortUUID()}";
+        return $"usr_{GenerateShortUUID()}";
+    }
+
+    public static string GenerateRoleId()
+    {
+        return $"rol_{GenerateShortUUID()}";
     }
 
     public static bool IsValidUserId(string? id)

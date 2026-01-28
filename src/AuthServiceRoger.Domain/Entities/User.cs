@@ -36,7 +36,7 @@ public class User
 
     [Required]
     public DateTime UpdatedAt { get; set; }
-
+    //Tabla a la que va por llave foranea
     public UserProfile UserProfile { get; set; } = null!;
     public ICollection<UserRole> UserRoles { get; set; } = [];
 
